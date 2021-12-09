@@ -300,7 +300,7 @@ html{
     justify-content: center;
 }
 
-.modal-open{
+.modal.open{
     display: flex;
 }
 
