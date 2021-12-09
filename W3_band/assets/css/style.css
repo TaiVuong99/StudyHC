@@ -300,6 +300,10 @@ html{
     justify-content: center;
 }
 
+.modal-open{
+    display: flex;
+}
+
 .modal-container{
     background-color: #fff;
     width: 900px;
